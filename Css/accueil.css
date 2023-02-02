@@ -1,0 +1,282 @@
+.Menu{
+    display: inline-block;
+    font-size: 30px;
+    padding: 3px;
+    position: relative;
+    left: 750px;
+    
+    
+}
+
+header{
+    position: relative;
+    top: -1050px;
+  
+}
+
+
+
+.home{
+    text-decoration: none;
+    color: white;
+    right: 30px;
+    position: relative;
+
+}
+
+.home:hover{
+    color: orange ;
+    position: relative;
+}
+
+
+
+.menu{
+    text-decoration: none;
+    color: white;
+    right: 3%;
+    position: relative;
+
+}
+
+.menu:hover{
+    color: orange ;
+    position: relative;
+}
+.about{
+    text-decoration: none;
+    color: white;
+    right: 2%;
+    position: relative;
+}
+
+.about:hover{
+    color: orange ;
+    position: relative;
+}
+
+.book{
+    text-decoration: none;
+    color: white;
+    left: 1px;
+    position: relative;
+}
+
+.book:hover{
+    color: orange ;
+    position: relative;
+}
+
+/*  Position des icons */
+
+.usericon{  
+    position: relative;
+    width: 31px;
+    left: 900px;
+    top: 10px;
+
+}
+
+.shop{
+    position: relative;
+    width: 35px;
+    left: 920px;
+    top: 10px;
+}
+
+.search{
+    position: relative;
+    width: 31px;
+    left: 940px;
+    top: 10px;
+
+}
+
+.online{
+    background-color: orange;
+    position: relative;
+    font-style: normal;
+    color: white;
+    border-radius: 20px;
+    width: 190px;
+    height: 50px;
+    text-align: center;
+    font-size: 25px;
+    left: 1600px;
+    top: -40px;
+}
+
+
+
+p{
+    position: relative;
+    font-size: 27px;
+    color: white;
+}
+
+.order{
+    background-color: orange;
+    position: relative;
+    font-style: normal;
+    color: white;
+    border-radius: 20px;
+    width: 190px;
+    height: 50px;
+    text-align: center;
+    font-size: 25px;
+}
+
+.burgerdiv{   /* texte du milieu */
+    position: absolute ;
+    top: 25%;
+    left: 5%;
+}
+
+
+
+.bloc1{ /* LES deux blocs */
+    position: relative;
+    width: 645px;
+    height: 240px;
+    left: 15%;
+    background-color: rgb(9, 9, 48);
+}
+
+.bloc2{ /* LES deux blocs */
+    position: relative;
+    width: 645px;
+    height: 240px;
+    left: 52%;
+    top: -240px;
+    background-color: rgb(9, 9, 48);
+}
+
+
+/* positionnement des images dans les blocs */
+
+.o1{
+    position: absolute;
+    width: 210px;
+    border-radius: 150px;
+    border-style: solid;
+    color: orange;
+    border-width: 5px;
+    left: 7px;
+    top: 9px;
+
+}
+
+
+.o2{
+    position: absolute;
+    width: 210px;
+    border-radius: 150px;
+    border-style: solid;
+    color: orange;
+    border-width: 5px;
+    left: 10px;
+    top: 9px;
+
+}
+.onli{
+    background-color: orange;
+    position: relative;
+    font-style: normal;
+    color: white;
+    border-radius: 20px;
+    width: 190px;
+    height: 50px;
+    text-align: center;
+    top: 10px;
+    font-size: 25px;
+}
+
+.lien{
+    position: relative;
+    font-size: 35px;
+    text-align: center;
+    border: none;
+    text-underline-offset: none;
+    
+}
+
+.all{
+    text-decoration: none;
+    color: black;
+    right: 5%;
+    position: relative;
+
+}
+.all:hover{
+    color: white ;
+    position: relative;
+    background-color: rgb(9, 9, 48);
+    border-radius: 10px;
+   
+
+}
+
+.Burger{
+    text-decoration: none;
+    color: black;
+    right: 3%;
+    position: relative;
+
+}
+.Burger:hover{
+    color: white ;
+    position: relative;
+    background-color: rgb(9, 9, 48);
+    border-radius: 10px;
+   
+}
+.pizza{
+    text-decoration: none;
+    color: black;
+    right: 1%;
+    position: relative;
+
+}
+
+.pizza:hover{
+    color: white ;
+    position: relative;
+    background-color: rgb(9, 9, 48);
+    border-radius: 10px;
+   
+}
+
+
+
+.pasta{
+    text-decoration: none;
+    color: black;
+    left: 1%;
+    position: relative;
+
+}
+
+.pasta:hover{
+    color: white ;
+    position: relative;
+    background-color: rgb(9, 9, 48);
+    border-radius: 10px;
+   
+}
+
+.frie{
+    text-decoration: none;
+    color: black;
+    left: 2%;
+    position: relative;
+
+}
+
+.frie:hover{
+    color: white ;
+    position: relative;
+    background-color: rgb(9, 9, 48);
+    border-radius: 10px;
+   
+}
+
